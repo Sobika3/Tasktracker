@@ -1,0 +1,7 @@
+[33m1853d4b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33mc7b6b40[m HEAD@{1}: reset: moving to HEAD~1
+[33m02d4333[m HEAD@{2}: commit: Add Project and Task entities
+[33mc7b6b40[m HEAD@{3}: commit: Add Project and Task entities
+[33m1853d4b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{4}: Branch: renamed refs/heads/main to refs/heads/main
+[33m1853d4b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: Branch: renamed refs/heads/master to refs/heads/main
+[33m1853d4b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{8}: commit (initial): Initial commit Spring Boot project
